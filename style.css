@@ -1,8 +1,10 @@
 * {
     margin: 0px;
     padding: 0px;
-
+   
 }
+
+
 
 header {
     display: flex;
@@ -27,6 +29,10 @@ nav a {
     text-decoration: none;
     color: rgb(228, 221, 221);
     font-size: large;
+}
+main{
+    font-family: "Playfair Display", serif;
+  font-style: normal;
 }
 
 
@@ -82,7 +88,7 @@ nav a {
 
 .container1 {
     background-color: #0a101e;
-    height: 300px;
+    height: 400px;
     display: flex;
     justify-content: space-between;
 
@@ -92,20 +98,21 @@ nav a {
 
     width: 60%;
     margin-left: 80px;
+    
 
 }
 
 .box1inner h1 {
     width: 40%;
     margin-top: 20px;
-    padding-bottom: 25px;
+    padding-bottom: 30px;
     color: white;
 
 }
 
 .box1inner p {
     width: 50%;
-    padding-bottom: 30px;
+    padding-bottom: 80px;
     color: rgb(181, 172, 172);
 
 }
