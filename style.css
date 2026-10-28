@@ -13,9 +13,8 @@ header {
 
 }
 
-.logo {
-    color: white;
-    font-size: 25px;
+.logo img {
+    height:30px;
 }
 
 nav {
@@ -48,6 +47,36 @@ nav a {
 
 
 }
+.menuicon{
+    display:none;
+}
+
+@media(max-width:650px){
+    nav{
+        display:none;
+    }
+    .menuicon{
+        display:block;
+        font-size:15px;
+    }
+
+}
+
+@media(max-width:480px){
+    .login{
+        padding: 9px 15px;
+    margin-left: 6px;
+
+    }
+    .signup{
+         padding: 9px 15px;
+    margin-left: 6px;
+
+    }
+
+}
+
+
 
 
 
