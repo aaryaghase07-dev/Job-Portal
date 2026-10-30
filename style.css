@@ -504,12 +504,48 @@ h3 {
     border: 1px solid #2d3b61;
     border-radius: 9px;
     background-color: #131a2e;
-    margin: 20px;
-    padding: 20px; 
+    margin: 10px 0px;
+    padding: 10px; 
+    display:flex;
+    justify-content: center;
     
 
     
     
+}
+.companyimg{
+    width: 20%;
+    
+   
+    
+}
+.cimg{
+    width: 50px;
+    height: 50px;
+    border-radius: 9px;
+    margin: 10px;
+    
+
+}
+.companydetail{
+    width:80%;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    
+    
+    
+}
+.companydetail h5{
+    font-size:17px;
+    color: white;
+    opacity: 0.80;
+    
+}
+.companydetail p{
+    font-size:medium;
+    color:#9684f9;
+    margin: 10px 0px;
 }
 
 
