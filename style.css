@@ -19,6 +19,7 @@ header {
     height: 30px;
 }
 
+
 nav {
     align-items: center;
     justify-content: center;
@@ -652,6 +653,20 @@ margin-top: 10px;
     border: 1px solid #2d3b61;
     background-color: #131a2e
 
+}
+.two .slice1{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 10px;
+    gap: 5px;
+}
+.two .slice1 img{
+    width:40px;
+    height: 40px;
+}
+.slice1 h4{
+    color: white;
 }
 
 .part2 .three {
