@@ -547,6 +547,15 @@ h3 {
     color:#9684f9;
     margin: 10px 0px;
 }
+.companydetail h6{
+    color:white;
+    opacity:0.60;
+    margin-top:10px;
+}
+.innerdetail{
+    display:flex;
+    gap:40px;
+}
 
 
 /* media query of feature category */
