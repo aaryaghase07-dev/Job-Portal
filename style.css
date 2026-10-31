@@ -614,9 +614,9 @@ h3 {
     height: 40%;
 }
 .goalimg img{
-    width:120px;
-    height: 90px;
-    margin: 7px 15px;
+    width:100px;
+    height: 70px;
+    margin: 17px 15px;
 }
 .text{
     height: 60%;
@@ -668,6 +668,11 @@ margin-top: 10px;
 .slice1 h4{
     color: white;
 }
+.slice2 .quicklinks{
+    color:white;
+    font-size:20px;
+    
+}
 
 .part2 .three {
     width: 300px;
@@ -677,3 +682,14 @@ margin-top: 10px;
     border: 1px solid #2d3b61;
     background-color: #131a2e
 } 
+.three img{
+    width:40px;
+    height:40px;
+     margin: 17px 15px;
+}
+.three h4{
+    color:white;
+    width: 70%;
+    margin: 0px 15px;
+    
+}
