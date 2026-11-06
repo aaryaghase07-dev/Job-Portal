@@ -32,4 +32,8 @@ signupForm.addEventListener("submit", (e) => {
     // Reset form
     signupForm.reset();
 
+    setTimeout(() => {
+        window.location.href = "login.html";
+    }, 2000);
+
 });

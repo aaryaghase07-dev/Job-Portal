@@ -94,7 +94,7 @@ main {
 
 .container1 {
     background-color: #0a101e;
-    height: 400px;
+    height: 500px;
     display: flex;
     justify-content: space-between;
 
@@ -150,6 +150,7 @@ main {
     padding: 9px;
     width: 550px;
     background-color: #121c2f;
+    color:white;
 
 
 
@@ -162,6 +163,44 @@ main {
     width: 100px;
     background-color: #8982e7;
 }
+
+.result-container {
+    display:flex;
+    gap: 20px;
+    height: 180px;
+    width: 100%;
+    /* border: 1px solid rgb(94, 87, 94); */
+    border-radius: 9px;
+    margin-top: 4px;
+    color:white;
+    
+}
+
+
+.job-card {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px 2px;
+    background: #121c2f;
+    width: 20%;
+    height:90px;
+    
+    
+    
+
+    
+}
+
+.job-card h3 {
+    color: #49318c;
+    align-items: flex-start;
+}
+.job-card p{
+    
+    text-align: center;
+}
+
 
 
 
