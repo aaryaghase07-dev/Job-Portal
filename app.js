@@ -87,18 +87,7 @@ filterJobs.forEach((item) => {
 
 })
  }
-
-    
-
-
-
-
-
-
-
-
-
- button.addEventListener("click", searchProduct);
+button.addEventListener("click", searchProduct);
 
 
 
